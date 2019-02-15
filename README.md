@@ -5,9 +5,10 @@ This repo holds the code and documentation for the creative coding workshop @lec
 
 Réalisé par : **Raphaël Perraud** - **Eliott Chevalier** - **Robin Exbrayat** - **Théo Geiller**
 
+![](Void/VOID.gif)
+
 Void est une installation interactive réalisé avec processing. Cette installation représente le flux des données internet sur un réseau internet. L'utilisateur est invité à se connecter sur un hot-spot wifi et à visiter des pages web sélectionnées. Les émissions et récéptions de requêtes sont représentées en vidéo-mapping sur un "table" circulaire comportant un trou au centre. Les packets de données apparaissent au centre de l'installation et sont instantanément dévorés par des agents vivant sur le pourtour de l'univers digital symbolisé par cette table.
 
-![](Void/VOID.gif)
 
 ![](Void/Scenario.png)
 
