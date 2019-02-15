@@ -20,6 +20,18 @@ Une vidéo de présentation est disponnible [ici](https://youtu.be/PhswR3uoNPM)
 
 ## La pluie de minuit 
 
+Réalisé par : **Léa Genais** - **Ronan Chopineaux** - **YuXiang LI** - **Lingyi Xia** -**Alice Briolat**
+
+![](La-pluie-de-minuit/pluie.gif)
+
+Le sujet consistait à réaliser un projet s’inspirant des codes de l’art numérique expérimental.
+Notre intention était de permettre au spectateur de traverser la pluie sans être mouillé: réaliser une installation immersive en retranscrivant le côté apaisant  et la beauté de la pluie avec son côté poétique.
+
+Une vidéo de présentation est disponnible [ici](https://youtu.be/PhswR3uoNPM)
+
+[Cahier de recherche](https://github.com/AtelierNum/workshop_code_creatif_1819/blob/master/La-pluie-de-minuit/Cahier_de_recherche.pdf)
+
+
 
 ## Mouvance
 
