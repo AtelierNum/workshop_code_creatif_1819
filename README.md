@@ -13,7 +13,7 @@ Void est une installation interactive réalisé avec processing. Cette installat
 
 Une vidéo de présentation est disponnible [ici](https://youtu.be/PhswR3uoNPM)
 
-[Cahier de recherche](Void/Journal_de_bord.pdf)
+[Cahier de recherche](https://github.com/AtelierNum/workshop_code_creatif_1819/blob/master/Void/Journal_de_bord_VOID.pdf)
 
 
 
