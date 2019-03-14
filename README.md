@@ -89,9 +89,17 @@ Une vidéo de présentation est disponnible [ici](https://youtu.be/HqYMf7F2Wlg)
 [Cahier de recherche](https://github.com/AtelierNum/workshop_code_creatif_1819/blob/master/Splash-light/CahierDeRecherche.pdf)
 
 
-
 ## Silhéa
 
+Réalisé par : **Marie Jollivet** - **Hugo Prévost** - **Clara Mahé** - **Arthur Zighera**
+
+![](Silhea/silhea.gif)
+
+Silhéa est un dispositif intéractif où se mèlent les intéractions des usagers et le visuel.
+
+Notre but était de permettre à une personne de créer, en fonction de ses envies, une oeuvre à partir de sa silhouette, dans un univers coloré. Nous avons utilisé deux potentiomètres, deux boutons ainsi qu’un micro. Chacun de ses capteurs influences un paramétre prédéfinit. L’ensemble de ces commandes sont réunis dans une boite qui fait office de manettes afin de faciliter la prise en main de l’utilisateur.
+
+[Cahier de recherche](https://github.com/AtelierNum/workshop_code_creatif_1819/blob/master/Silhea/Cahier-de-recherche.pdf)
 
 ## Psyché 70's
 
