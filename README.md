@@ -101,22 +101,22 @@ Notre but était de permettre à une personne de créer, en fonction de ses e
 
 [Cahier de recherche](https://github.com/AtelierNum/workshop_code_creatif_1819/blob/master/Silhea/Cahier-de-recherche.pdf)
 
+
 ## Psyché 70's
 
+Réalisé par : **Aurore Tanguy** - **Luna Martel** - **Jeanne Verstraete** - **Meriem Gharbi**
+
+![](Psyche70/psyche70.gif)
+
+Psyche70 est un projet qui a pour but de déformer la perception de nous même à travers des animations et des musiques manipulables.
+Pour ce faire, nous avons créé deux animations. La première consiste à reproduire notre image avec des traits, qui seront déformés selon les points les plus lumineux du visage.
+La seconde utilise les pixels de l’image et les transforment, en les agrandissant, et en les tournant sur eux-mêmes selon leur luminosité.
+
+Une vidéo de présentation est disponnible [ici](https://youtu.be/qLaQuh0_20k)
+
+[Cahier de recherche](https://github.com/AtelierNum/workshop_code_creatif_1819/blob/master/Psyche70/compte-rendu.pdf)
 
 
 
 
-TODO
 
-
-
-
-* Extraire textes courts
-
-* liens vers vidéos youtube 
-* liens vers les pdf
-* liens vers les cartels
-
-
-+> push !!
