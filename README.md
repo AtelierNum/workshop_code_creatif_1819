@@ -78,6 +78,17 @@ Une vidéo de présentation est disponnible [ici](https://youtu.be/W9qJmUZlmx4)
 
 ## Splash light
 
+Réalisé par : **Julie Thierry** - **Anaël Zafra** - **Juliette Herlem** - **Marie Sandevoir**
+
+![](Splash-light/splashlight.gif)
+
+Oho, c’est une goutte d’eau. Une goutte d’eau née d’un père ciel et d’une mère nuage. Mais Oho a un rêve, et son rêve c’est celui de partir du monde du ciel pour rejoindre ses autres amis gouttes sur la terre dans une rivière. Pour cela, elle tombera du ciel pour atteindre son but, mais rencontrera des obstacles qui risquent à tout moment de la tuer. Aidez Oho a réaliser son rêve, car sa route n’est pas longue mais pleine d’embûches.
+
+Une vidéo de présentation est disponnible [ici](https://youtu.be/HqYMf7F2Wlg)
+
+[Cahier de recherche](https://github.com/AtelierNum/workshop_code_creatif_1819/blob/master/Splash-light/CahierDeRecherche.pdf)
+
+
 
 ## Silhéa
 
