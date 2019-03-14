@@ -49,6 +49,16 @@ Une vidéo de présentation est disponnible [ici](https://youtu.be/J1d4fnbjjGY)
 
 ## Abymes
 
+Réalisé par : **Zoe Pan** - **Thibaud Cabellan** - **Arslan Sifaoui** - **Emilie Schaefer**
+
+![](Abymes/abymes.gif)
+
+Cette installation visuelle et sonore propose l’exploration d’un univers planant, alliant des couleurs et des sons galactiques inspirés du film Blade Runner 2049, à des animations de particules qui interagissent entre elles. Les effets lumineux produits par le film dichroïque viennent y ajouter une ambiance sous-marine.
+
+Une vidéo de présentation est disponnible [ici](https://youtu.be/mXSaTazgUrA)
+
+[Cahier de recherche](https://github.com/AtelierNum/workshop_code_creatif_1819/blob/master/Abymes/Abymes_carnet_de_bord.pdf)
+
 
 ## Floody
 
