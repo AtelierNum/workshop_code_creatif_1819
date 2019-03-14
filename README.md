@@ -62,6 +62,19 @@ Une vidéo de présentation est disponnible [ici](https://youtu.be/mXSaTazgUrA)
 
 ## Floody
 
+Réalisé par : **Allan Guégan** - **Aurélien Colloc** - **Noémie Elkholti** - **Simon Heurtebise**
+
+![](Floody/floody.gif)
+
+“FLOODY” est un petit jeu qui prend place au sein d’un univers marin. Le joueur contrôle une forme. À l’aide de la manette, le/la joueur.se peut changer d’état et se diriger.
+Pour survivre dans cet univers et ne pas rétrécir au point de disparaître, il faut attraper des formes semblables: un carré, un cercle ou un triangle.
+Son seul moyen de survie est donc de manger la même forme qui lui est attribuée au départ. Il faut se transformer en la forme que nous voulons manger.
+
+Une vidéo de présentation est disponnible [ici](https://youtu.be/W9qJmUZlmx4)
+
+[Cahier de recherche](https://github.com/AtelierNum/workshop_code_creatif_1819/blob/master/Floody/Journaldebordworkshop.pdf)
+
+
 
 ## Splash light
 
