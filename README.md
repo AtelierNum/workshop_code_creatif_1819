@@ -35,6 +35,17 @@ Une vidéo de présentation est disponnible [ici](https://youtu.be/q2VL8w1L-nU)
 
 ## Mouvance
 
+Réalisé par : **Martin Lostis** - **Ulysse Ducamp** - **Victor Pérouse** - **Paul Joly**
+
+![](Mouvance/mouvance.gif)
+
+Notre carte vous propose de prendre du recul pour contempler un massif vu du ciel et même d’in uer directement sur sa météo. Pour cela, vous manipulerez une carte programmable PicoBoard que ce soit en souf ant, en appuyant ou encore en masquant un de ses composants. À l’aide de cette carte vous pourrez choisir la température, régler la précipitation et même faire frapper la foudre.
+
+Une vidéo de présentation est disponnible [ici](https://youtu.be/J1d4fnbjjGY)
+
+[Cahier de recherche](https://github.com/AtelierNum/workshop_code_creatif_1819/blob/master/Mouvance/carnet-de-recherche.pdf)
+
+
 
 ## Abymes
 
