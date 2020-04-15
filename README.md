@@ -1,5 +1,9 @@
 # workshop_code_creatif_1819
-This repo holds the code and documentation for the creative coding workshop @lecolededesign. Production were made by students in 2nd year of interaction design using process. The **code** is available [here](https://github.com/AtelierNum/workshop_code_creatif_1819)
+This page holds the code and documentation for the creative coding workshop @lecolededesign. Production were made by students in 2nd year of interaction design using process. The **code** is available  on [github](https://github.com/AtelierNum/workshop_code_creatif_1819)
+
+Cette page accueille la documentation des projets réalisés par les étudiants de deuxième année en design d'interaction @lecoldedesign dans le cadre du workshop "code créatif". L'ensemble des fichiers et du code est consultable sur ce dépot [githubb](https://github.com/AtelierNum/workshop_code_creatif_1819)
+
+
 
 ## Void 
 
